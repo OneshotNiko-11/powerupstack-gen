@@ -5,4 +5,5 @@ powerupstack.com gen, make sure to use tons of proxies
 https://github.com/user-attachments/assets/72875031-dbd8-4129-a1c5-ad623edfffd6
 
 # extra
-:star: 5 stars = auto server making
+:star: 2 stars - email verification
+:star: 6 stars = auto server making
